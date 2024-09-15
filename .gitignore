@@ -1,1 +1,6 @@
 .ipynb_checkpoints/
+micrograd/__pycache__/__init__.cpython-310.pyc
+micrograd/__pycache__/engine.cpython-310.pyc
+micrograd/__pycache__/nn.cpython-310.pyc
+gout
+gout.svg
